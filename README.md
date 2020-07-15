@@ -1,4 +1,4 @@
-# Data-Science-e-Estatistica
+# Data Science / Estatistica
 
 Treino de Data Science e Machine Learning 
 
