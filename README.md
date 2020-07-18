@@ -11,3 +11,4 @@ Bibliotecas utilizadas (python 3.7.6) :
    - Datetime
    - Statistics
    - Sklearn
+   - Statsmodels
