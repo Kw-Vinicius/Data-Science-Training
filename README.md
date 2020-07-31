@@ -9,6 +9,6 @@ Bibliotecas utilizadas (python 3.7.6) :
    - Pandas
    - Seaborn
    - Datetime
-   - Statistics
    - Sklearn
+   - Statistics
    - Statsmodels
