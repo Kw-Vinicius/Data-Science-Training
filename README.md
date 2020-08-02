@@ -1,6 +1,6 @@
 # Data Science / Estatistica
 
-Treino de Data Science e Machine Learning 
+Treino de Data Science / Machine Learning 
 
 Bibliotecas utilizadas (python 3.7.6) :
 
